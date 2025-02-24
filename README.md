@@ -14,7 +14,7 @@ Explain what software engineering is and discuss its importance in the technolog
     technologies.
 
   - Enhances efficiency and productivity:-Automation of repetitive tasks boosts 
-    productivity and reduces human error
+    productivity and reduces human error.
 
   - Strengthens other fields:-Software engineering strengthens other fields such 
     as cybersecurity by ensuring the safety of online transactions and user 
