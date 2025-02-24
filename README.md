@@ -6,8 +6,26 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+  - Software engineering is the art and science of developing significant software 
+    systems using well defined scientific principles methods and procedures.
+
+  - Enables innovation and digital transformation:-This is achieved by the 
+    facilitation of automation,artificial intelligence and other emerging 
+    technologies.
+
+  - Enhances efficiency and productivity:-Automation of repetitive tasks boosts 
+    productivity and reduces human error
+
+  - Strengthens other fields:-Software engineering strengthens other fields such 
+    as cybersecurity by ensuring the safety of online transactions and user 
+    information
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+  -The birth of software engineering:Projects were failing due to poor planning  
+   and lack of structured development process.The waterfall model was introduced 
+   providing a step by step approach to software development.
+
+  -The rise of object oriented programming:
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
