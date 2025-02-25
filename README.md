@@ -25,14 +25,45 @@ Identify and describe at least three key milestones in the evolution of software
    and lack of structured development process.The waterfall model was introduced 
    providing a step by step approach to software development.
 
-  -The rise of object oriented programming:-
+  -The rise of object oriented programming:-Object oriented programming was introduced to umprove software modularity
+   and languages like C++ were introduced.
+
+  -The Agile and DevOps Revolution:Iterative development,customer collaboartion and flexibility were introduced thereby
+  replacing rigid waterfall models while DevOps emerged ,integrating software development with IT operations ensuring faster 
+  delivery and continuous integration.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+  -Planning:-Done to define project goals,scope and feasibility.
 
+  -Requirement analysis:-This is done to gather functional and non functional requirements.
 
+  -Design:-This is done to create software architecture,design and database structure. 
+
+  -Implementaion:-The actual code is written based on the design specifications.
+
+  -Testing:-Unit integration,system and user acceptance operations are performed.
+
+  -Deployment:-The software is released for users tomonitor system performance and resolve initial issues.
+
+  -Maintenance and updates:-Bug fixes and perfomance improvements are done,new  software updates are released and new features are added. 
+ 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+ -Waterfall model follows a linear approach, where each phase is completed before moving to the next while agile methodology use an iterative and incremental approach breaking the 
+  project into smaller cycles that allows continous development and improvement.
+  
+ -Flexibility:-In waterfall model once a phase is completed,it is difficult to go back and make changes,while agile is highly flexible allowing teams to adapt to changes and ncoporate 
+  feedback throughout the development process.
+  
+ -Develoopment process:-In waterfall model,development progresses step by step and testing only occurs after coding is complete while in agile methodologies, development and testing take 
+  place in  each phase ensuring continuous feeedback and improvements.
+
+ -Testing:-Testing in the waterfall model happens at the end of the development cycle,which may lead to  late detection of bugs while in agile,testing is an ongoing process within each 
+  sprint leading to higher resolution. 
+  
+ -Risk management:-Waterfall carries higher risk if requirements change mid project because modifications can be costly and time consuming while agile reduces risks by allowing changes 
+  at any stage,making it ideal for evolving requirements. 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
