@@ -25,7 +25,7 @@ Identify and describe at least three key milestones in the evolution of software
    and lack of structured development process.The waterfall model was introduced 
    providing a step by step approach to software development.
 
-  -The rise of object oriented programming:
+  -The rise of object oriented programming:-
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
